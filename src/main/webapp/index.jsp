@@ -15,7 +15,7 @@
          private static int counter = 0;
          %>
         <%
-          String visitor = ++counter + " :: We are growing , THANK YOU for your LOVE and SUPPORT...";
+          String visitor = ++counter + " :: We are growing , THANK YOU for your Love and Support...";
         %>
 
 	<SCRIPT>
@@ -37,7 +37,7 @@
                 <BR>
                 <BR>
                 <BR>
-                        <FONT COLOR="WHITE" SIZE="7">WELCOME TO ERODE FARMS
+                        <FONT COLOR="WHITE" SIZE="7">WELCOME TO SEKAR FARMS
                         <br>
 			<FONT COLOR="WHITE" SIZE="5">|- from the blended nature of Kalvarayan and Kolli Hills -|
 			<br><br>
